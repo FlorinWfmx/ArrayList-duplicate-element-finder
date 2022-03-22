@@ -1,5 +1,3 @@
-package ArraysArraysList;
-
 import java.util.*;
 
 class ArrayListDuplicateElementError {
